@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">JetPackApplication</string>
+    <string name="singer_description">Singer Description</string>
+</resources>
